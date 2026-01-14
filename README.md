@@ -1,7 +1,7 @@
 # SQL-Foundation
 This repository contains basic SQL queries practiced using MySQL on the `parks_and_recreation.employee_demographics` table.
 
-# SQL Practice: 2. SELECT and DISTINCT
+# 2. SELECT and DISTINCT
 
 ## Covered Concepts
 - Selecting all columns using `SELECT *`
@@ -18,9 +18,7 @@ This repository contains basic SQL queries practiced using MySQL on the `parks_a
 
 -------------------
 
-# SQL Practice: WHERE Clause and Filtering
-
-This repository contains SQL queries practiced in MySQL focusing on filtering data from the `parks_and_recreation` database.
+# 3.WHERE Clause and Filtering
 
 ## Covered Concepts
 - Filtering rows using the `WHERE` clause
