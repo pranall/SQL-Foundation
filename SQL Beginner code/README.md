@@ -57,4 +57,28 @@ This repository contains basic SQL queries practiced using MySQL on the `parks_a
   - `employee_demographics`
   - `employee_salary`
 
+----
+
+# 5. WHERE vs HAVING
+
+## Covered Concepts
+- Using `WHERE` to filter rows before grouping
+- Understanding why aggregate functions cannot be used in `WHERE`
+- Grouping data with `GROUP BY`
+- Using `HAVING` to filter results after aggregation
+- Combining `WHERE`, `GROUP BY`, and `HAVING` in a single query
+- Filtering grouped salary data using aggregate conditions
+
+## Key Takeaway
+- `WHERE` filters individual rows before grouping
+- `HAVING` filters grouped results after aggregation
+
+## Database
+- MySQL
+- Schema: `parks_and_recreation`
+- Tables:
+  - `employee_demographics`
+  - `employee_salary`
+```
+
 
