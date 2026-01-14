@@ -35,4 +35,26 @@ This repository contains basic SQL queries practiced using MySQL on the `parks_a
 - Tables:
   - `employee_salary`
   - `employee_demographics`
+ 
+--------
+
+# 4. GROUP BY and ORDER BY
+
+## Covered Concepts
+- Grouping rows using `GROUP BY`
+- Aggregation functions (`AVG`, `MAX`, `MIN`, `COUNT`)
+- Grouping by single and multiple columns
+- Understanding valid and invalid `GROUP BY` usage
+- Sorting results using `ORDER BY`
+- Ascending and descending order (`ASC`, `DESC`)
+- Sorting by multiple columns
+- Ordering by column position (demonstration only, not best practice)
+
+## Database
+- MySQL
+- Schema: `parks_and_recreation`
+- Tables:
+  - `employee_demographics`
+  - `employee_salary`
+
 
