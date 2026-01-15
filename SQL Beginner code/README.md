@@ -79,6 +79,26 @@ This repository contains basic SQL queries practiced using MySQL on the `parks_a
 - Tables:
   - `employee_demographics`
   - `employee_salary`
-```
+
+---
+
+# 6. LIMIT and Aliasing
+
+This repository contains SQL queries practiced in MySQL focusing on limiting result sets and improving query readability using column aliases.
+
+## Covered Concepts
+- Limiting the number of returned rows using `LIMIT`
+- Combining `ORDER BY` with `LIMIT` to retrieve top results
+- Using `LIMIT` with offset for pagination
+- Creating column aliases with `AS`
+- Referencing aliases in the `HAVING` clause
+- Using aliases without the `AS` keyword
+
+## Database
+- MySQL
+- Schema: `parks_and_recreation`
+- Table:
+  - `employee_demographics`
+
 
 
